@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mission
+title: About
 permalink: /about
 ---
 
@@ -16,8 +16,8 @@ Services:
 * Meditation (20 years, started with nothingness meditation and gone from there to many different modalities including Tibetan Buddhism as a student of Sherab Khandro(Ani) of Santa Monica KTC, taking refuge in the tradition of the Karmapa, Ogyen Trinley Dorje [www.kagyuoffice.org](www.kagyuoffice.org)
 * Diet (studying foods and supplements benefits for 20 years)
 * Peptides (studying/taking them for 5 years.  I utilize and provide the very powerful peptides provided by the incredible doctors at [Compounding Pharmacy](www.santaanatustincompoundingpharmacy.com) in Santa Ana,CA as a Wellness Concierge)
-* Probiotics (locally grown, specializing in kombucha with various 2nd brewing cycles for taste, spice and health.  Also grow wheat grass, kefir, rejuvelac, sprouted legumes, nuts, etc).  I make many paleo/non-glut/keto diet friendly dishes and deserts yet I like most all foods and don't discriminate :) if it taste good I say pay attention and how does it make you REALY feel.
-* Exercise (low impact HIiT is my specialty)
+* Probiotics (locally grown, specializing in kombucha with various 2nd brewing cycles for taste, spice and health.  I grow wheat grass, kefir, rejuvelac, sprouted legumes, nuts, etc).  I've also develop paleo/non-glut/keto diet friendly dishes and deserts yet I like most all foods and don't discriminate :) if it taste good I say pay attention and how does it make you REALY feel.
+* Exercise (low impact HIiT is currently a major area of study for me)
 * Stretching (practicing and helping others for 12 years)
 * Tutor/Teaching (specializing k-12, behavioral interventionist w/neurodiverse students, teach math, science, and music from singing to guitar/piano/bass both privately and with Hayutin Education & Scoot Education in Los Angeles, CA)
 * Software/game development (32 years professionally.  I hold a BS of computer science with a minor in mathematics from The University of Utah)
