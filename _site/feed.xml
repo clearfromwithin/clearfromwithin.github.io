@@ -1,10 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-06T20:23:19-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Clear From Within</title><subtitle>&lt;desc&gt;</subtitle><author><name>&lt;author&gt;</name></author><entry><title type="html">About</title><link href="http://localhost:4000/TG" rel="alternate" type="text/html" title="About" /><published>2024-01-02T00:00:00-08:00</published><updated>2024-01-02T00:00:00-08:00</updated><id>http://localhost:4000/TG</id><content type="html" xml:base="http://localhost:4000/TG"><![CDATA[<table>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-03-06T21:18:25-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Clear From Within</title><subtitle>&lt;desc&gt;</subtitle><author><name>&lt;author&gt;</name></author><entry><title type="html">About</title><link href="http://localhost:4000/TG" rel="alternate" type="text/html" title="About" /><published>2024-01-02T00:00:00-08:00</published><updated>2024-01-02T00:00:00-08:00</updated><id>http://localhost:4000/TG</id><content type="html" xml:base="http://localhost:4000/TG"><![CDATA[<table>
   <tbody>
     <tr>
       <td>ClearFromWithin</td>
-      <td>QHHt/VocalYoga/Enquiry</td>
-      <td>3105600950</td>
-      <td>www.instagram.com/clearfromwithin</td>
+      <td>Wellness</td>
+      <td>Peptides</td>
+      <td>QHHt</td>
+      <td>VocalYoga</td>
+      <td>Enquiry</td>
     </tr>
   </tbody>
-</table>]]></content><author><name>Clear From Within</name></author><category term="facts" /><category term="sample" /><summary type="html"><![CDATA[ClearFromWithin QHHt/VocalYoga/Enquiry 3105600950 www.instagram.com/clearfromwithin]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/CFW.png" /><media:content medium="image" url="http://localhost:4000/CFW.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+</table>]]></content><author><name>Clear From Within</name></author><category term="facts" /><category term="sample" /><summary type="html"><![CDATA[ClearFromWithin Wellness Peptides QHHt VocalYoga Enquiry]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/CFW.png" /><media:content medium="image" url="http://localhost:4000/CFW.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
