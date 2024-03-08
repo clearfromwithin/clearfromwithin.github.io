@@ -5,7 +5,7 @@ permalink: /abundancecourse
 ---
 
 <!--- comments here --->
-[Release Technique,Corp](https://www.releasetechnique.com) Abundance Course app developed by Matt Fairweather
+[Release Technique,Corp](https://www.releasetechnique.com) | Abundance Course app developed by Matt Fairweather
 <img src="assets/img/AbundanceCourseAppRTWebsite.png"/>
 
 [Release Technique page](https://www.releasetechnique.com/mobileapp/).
