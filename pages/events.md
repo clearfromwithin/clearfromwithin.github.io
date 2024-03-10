@@ -13,7 +13,7 @@ CFW/QHHt GroupEvent @Gateway|LA 1/11/13
 CFW/QHHt GroupEvent @Gateway|LA 10/24/12
 <img src="assets/img/GroupEvent_10_24_2012.jpg"/>
 
-Past Events (Torrid Games):
+Past Events (Torrid Games [more info](http://www.torridgames.com))...
 YMCA SurfGod iOS App Contest / Panel Discussion
 <img src="assets/img/YMCA.jpeg"/>
 
