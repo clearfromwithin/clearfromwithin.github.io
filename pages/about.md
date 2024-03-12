@@ -18,6 +18,7 @@ Services:
 * Diet (studying foods and supplements benefits for 20 years -- practitioner and facilitator)
 * Peptides (studying/taking them for 5 years.  I utilize and provide the very powerful peptides provided by the amazing doctors/scientists at [Compounding Pharmacy](https://www.santaanatustincompoundingpharmacy.com) in Santa Ana,CA as a Wellness Concierge)
 * Probiotics (locally grown, specializing in kombucha with various 2nd brewing cycles for taste, spice and health.  I grow wheat grass, kefir, rejuvelac, sprouted legumes, nuts, etc).  I've also develop paleo/non-glut/keto diet friendly dishes and deserts yet I like most all foods and don't discriminate :) if it taste good I say pay attention and how does it make you REALY feel.
+* Chef.  Professionally at The Red Door in Bel Air, private events/dinners as an apprentice for Chef Thea Dixon in the LA area, and for dinner parties I host at my home.  I also have a history as a server at Bob's Big Boy in Herndon, CA and a busboy with Marriott: Pantry in Salt Lake City, UT & The Diplomat at the Dulles Int'l Airport, VA.
 * Exercise (low impact HIiT is currently a major area of study for me)
 * Stretching (practicing and helping others for 12 years)
 * Tutor/Teaching (specializing k-12, behavioral interventionist w/neurodiverse students, teach math, science, and music from singing to guitar/piano/bass both privately and with Hayutin Education & Scoot Education in Los Angeles, CA)
