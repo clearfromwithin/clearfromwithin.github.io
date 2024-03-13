@@ -22,7 +22,7 @@ Services:
 * Exercise (low impact HIiT is currently a major area of study for me)
 * Stretching (practicing and helping others for 12 years)
 * Tutor/Teaching (specializing k-12, behavioral interventionist w/neurodiverse students, teach math, science, and music from singing to guitar/piano/bass both privately and with Hayutin Education & Scoot Education in Los Angeles, CA)
-* Software/game development (32 years professionally.  I hold a BS of computer science with a minor in mathematics from The University of Utah).  My software company is www.torridgames.com
+* Software/game development (32 years professionally.  I hold a BS of computer science with a minor in mathematics from The University of Utah).  My software company is [Torrid Games](www.torridgames.github.io)
 * Song writing & live performing (for 36 years). links: [Root Chakar](https://www.facebook.com/rootchakar) [Stolen Dan](https://www.instagram.com/stolendan) [Yacht Chocolate](https://www.youtube.com/watch?v=1aFV79Znb88&pp=ygUPeWFjaHQgY2hvY29sYXRl) [Chaly's Bronson](https://www.facebook.com/chalysbronson)
 
 * {I do use a sliding scale with all of my services for those in need.  I also do 1 free QHHt session a month rn.  QHHt: $333(takes 2-4 hours with the location cattered to the client needs.  VocalYoga: $100/hour. Meditation/Enquiry is negotiable and highly variable time-wise as every client has different needs.}
