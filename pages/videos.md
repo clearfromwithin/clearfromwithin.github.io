@@ -10,7 +10,7 @@ permalink: /videos
 [clip 2023 Gateway Portal group event in West LA](https://www.instagram.com/reel/Cxx0HuYryEv/).
 
 ![](assets/img/CD_Toon_cmprs_mp3Audio.mp4)
-[YT link of above cartoon](https://youtu.be/ti6rjyKzUec)
+[above cartoon on YT w/sound](https://youtu.be/ti6rjyKzUec)
 
 [preview of Gateway Portal event](https://www.instagram.com/reel/Cxs1xMyLJjz/).
 
