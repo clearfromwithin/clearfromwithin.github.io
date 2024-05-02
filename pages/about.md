@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-<video src='https://youtu.be/ti6rjyKzUec' width=180/>
+<video src="https://youtu.be/ti6rjyKzUec"></video>
 
 Greetings.  Welcome to Clear From Within.  It can be stated that all healing starts from within ourselves.  Sometimes within seems out of reach, or we may experience blocks that keep us from going inside on our own.  We search and search for answers out in the external world.  Often the solution simply requires a person to facilitate this going within to help us achieve our heart’s desires and to find clarity.  This is what I endeavor to do with clients.  I always try my best to lead with love, attentiveness, and dilligence.
 
