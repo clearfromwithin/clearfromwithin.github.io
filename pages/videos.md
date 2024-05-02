@@ -5,6 +5,11 @@ category: videos
 permalink: /videos
 ---
 
+<!-- ![](assets/img/CD_Toon_cmprs.mp4) -->
+<!-- <video src="assets/img/CD_Toon_cmprs.mp4" width="1920/3" height="896/3" controls></video> -->
+![](assets/img/CD_Toon_cmprs_mp3Audio.mp4)
+[YT link of above cartoon](https://youtu.be/ti6rjyKzUec)
+
 [clip 2023 Gateway Portal group event in West LA](https://www.instagram.com/reel/Cxx0HuYryEv/).
 
 [preview of above event](https://www.instagram.com/reel/Cxs1xMyLJjz/).
