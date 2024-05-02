@@ -29,7 +29,7 @@ menu:
 # - {name: 'Documentation',      url: 'documentation'}
 # - {name: 'About',              url: 'about'}
 # - {name: 'Contact',            url: 'contact'}
-- {name: 'About',                 url: 'about'}
+- {name: 'Info',                 url: 'about'}
 - {name: 'Affiliates',            url: 'affiliates'}
 - {name: 'Events',                url: 'events'}
 # - {name: 'SurfGod HtB for iOS',   url: 'surfgodhtb'}
