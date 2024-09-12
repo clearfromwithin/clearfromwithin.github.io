@@ -18,7 +18,7 @@ Services:
 * Diet (studying foods and supplements benefits for 20 years -- practitioner and facilitator)
 * Peptides (studying/utilizing, working with others for 5 years)
 * Probiotics (locally grown, specializing in kombucha with various 2nd brewing cycles for taste, spice and health.  I grow wheat grass, kefir, rejuvelac, sprouted legumes, nuts, etc).  I've also develop paleo/non-glut/keto diet friendly dishes and deserts yet I like most all foods and don't discriminate :) if it taste good I say pay attention and how does it make you REALY feel.
-* Chef.  Professionally at Red Door in Bel Air, private events/dinners, as an apprentice for Chef Thea Dixon in the LA area, and for dinner parties I host at my home.  I also have a history in food servics for Marriotts in Herndon,VA & SLC, UT -- also at The Diplomat @Dulles Int'l Airport, VA. Additionally, I had a brief stint as sous chef at the world famous, 5-star restaurant Melisse in Santa Monica, CA.
+* Chef.  Professionally at Red Door in Bel Air, private events/dinners, as an apprentice for Chef Thea Dixon in the LA area, and for dinner parties I host at my home.  I also have a history in food servics for Marriotts in Herndon,VA & SLC, UT -- also at The Diplomat @Dulles Int'l Airport, VA. Additionally, I had a brief stint as sous chef at the world famous, 5-star Mélisse in Santa Monica, CA.
 * Exercise (low impact HIiT is currently a major area of study for me)
 * Stretching (practicing and helping others for 12 years)
 * Tutor/Teaching (specializing k-12, behavioral interventionist w/neurodiverse students, teach math, science, and music from singing to guitar/piano/bass both privately and with Hayutin Education & Scoot Education in Los Angeles, CA)
