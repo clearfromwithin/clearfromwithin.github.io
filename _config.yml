@@ -1,5 +1,7 @@
 # Site Build Settings
 
+url: "https://clearfromwithin.com"
+
 # jekyll-paginate configuration
 paginate:            5
 
