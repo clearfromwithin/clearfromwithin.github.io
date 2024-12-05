@@ -4,8 +4,9 @@ title: Info
 permalink: /about
 ---
 
-Greetings.  Welcome to Clear From Within.  It can be stated that all healing starts from within ourselves.  Sometimes within seems out of reach, or we may experience blocks that keep us from going inside on our own.  We search and search for answers out in the external world.  Often the solution simply requires a person to facilitate this going within to help us achieve our heart’s desires and to find clarity.  This is what I endeavor to do with clients.  I always try my best to lead with love, attentiveness, and dilligence.
+Greetings.  Welcome to Clear From Within. It can be stated that all healing starts from within ourselves.  Sometimes within <span style="background-color: #FFFF00">seems</span> out of reach, or we may experience blocks that keep us from going inside on our own.  We search and search for answers out in the external world.  Often the solution simply requires a person to facilitate this going within to help us achieve our heart’s desires and to find clarity.  This is what I endeavor to do with clients.  I always try my best to lead with love, attentiveness, and dilligence.
 
+<img src="assets/img/CFW_Card_Cindy_Matt.PNG"/>
 <img src="assets/img/CFW_business_card.png"/>
 My name is Matt Fairweather.  I offer a variety of services in Wellness/Health.
 
@@ -17,7 +18,7 @@ Services:
 * Meditation (20 years, started with nothingness meditation and gone from there to many different modalities including Tibetan Buddhism as a student of Sherab Khandro(Ani) of Santa Monica KTC, taking refuge in the tradition of the Karmapa, Ogyen Trinley Dorje [www.kagyuoffice.org](https://www.kagyuoffice.org)
 * Diet (studying foods and supplements benefits for 20 years -- practitioner and facilitator)
 * Peptides (studying/utilizing, working with others for 5 years)
-* Probiotics (locally grown, specializing in kombucha with various 2nd brewing cycles for taste, spice and health.  I grow wheat grass, kefir, rejuvelac, sprouted legumes, nuts, etc).  I've also develop paleo/non-glut/keto diet friendly dishes and deserts yet I like most all foods and don't discriminate :) if it taste good I say pay attention and how does it make you REALY feel.
+* Probiotics (locally grown, specializing in kombucha with various 2nd brewing cycles for taste, spice and health.  I grow wheat grass, kefir, rejuvelac, sprouted legumes, nuts, etc).  I also develop paleo/non-glut/keto diet friendly dishes and deserts yet I like most all foods and don't discriminate :) if it taste good I say pay attention and how does it make you REALY feel.
 * Chef.  Professionally at Red Door in Bel Air, private events/dinners, as an apprentice for Chef Thea Dixon in the LA area, and for dinner parties I host at my home.  I also have a history in food servics for Marriotts in Herndon,VA & SLC, UT -- also at The Diplomat @Dulles Int'l Airport, VA. Additionally, I had a brief stint as sous chef at the world famous, 5-star Mélisse in Santa Monica, CA.
 * Exercise (low impact HIiT is currently a major area of study for me)
 * Stretching (practicing and helping others for 12 years)
@@ -26,3 +27,6 @@ Services:
 * Song writing & live performing (for 36 years). links: [Root Chakar](https://www.facebook.com/rootchakar) [Stolen Dan](https://www.instagram.com/stolendan) [Yacht Chocolate](https://www.youtube.com/watch?v=1aFV79Znb88&pp=ygUPeWFjaHQgY2hvY29sYXRl) [Chaly's Bronson](https://www.facebook.com/chalysbronson)
 
 * {I do use a sliding scale with all of my services for those in need.  I also do 1 free QHHt session a month rn.  QHHt: $333(takes 2-4 hours with the location cattered to the client needs.  Group QHHt/regressions/meditations for 200/hr with Satsang type feel at points inspired by Dolores, Lester, Robert Adams, Mooji and Tony Parker.   VocalYoga: $100/hour. Meditation/Enquiry is negotiable and highly variable time-wise as every client has different needs.}
+
+<img src="assets/img/Cindy.png"/>
+Cindy's bio is coming.  The broad strokes: she is OC based and highly skilled/experienced with peptides/holistic health. She also provides concierge-based services to cat-owners all over SoCal and is a primarty member of The Catmosphere Foundation in Laguna Beach.
