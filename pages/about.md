@@ -29,7 +29,7 @@ Services:
 * {I do use a sliding scale with all of my services for those in need.  I also do 1 free QHHt session a month rn.  QHHt: $333(takes 2-4 hours with the location cattered to the client needs.  Group QHHt/Regressions/Enquiry/VocalYoga for 200/hr with Satsang type feel at points inspired by Dolores, Lester, Robert Adams, Mooji and Tony Parker.   VocalYoga (private session): $100/hour. Meditation/Enquiry is negotiable and highly variable time-wise as every client has different needs.}
 
 Super-Green Protien Kefir Smoothie
-<img src>="assets/img/MF_Smoothie.jpg"/>
+<img src="assets/img/MF_Smoothie.jpg"/>
 [Instagram Full Video (3min)](https://www.instagram.com/p/DKLJKM4BKU3/).
 
 <img src="assets/img/Cindy.png"/>
