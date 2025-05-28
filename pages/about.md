@@ -28,5 +28,9 @@ Services:
 
 * {I do use a sliding scale with all of my services for those in need.  I also do 1 free QHHt session a month rn.  QHHt: $333(takes 2-4 hours with the location cattered to the client needs.  Group QHHt/regressions/meditations for 200/hr with Satsang type feel at points inspired by Dolores, Lester, Robert Adams, Mooji and Tony Parker.   VocalYoga: $100/hour. Meditation/Enquiry is negotiable and highly variable time-wise as every client has different needs.}
 
+Super-Green Protien Kefir Smoothie
+<img src>="assets/img/MF_Smoothie.png"/>
+[Full Video](https://www.instagram.com/p/DKLJKM4BKU3/).
+
 <img src="assets/img/Cindy.png"/>
 Cindy's bio is coming.  The broad strokes: she is OC based and highly skilled/experienced with peptides/holistic health. She also provides concierge-based services to cat-owners all over SoCal and is a primarty member of The Catmosphere Foundation in Laguna Beach.
