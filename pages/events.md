@@ -5,6 +5,10 @@ category: events
 permalink: /events
 ---
 
+Recipes / Group-event videos (check back as always posting more):
+[YT](https://www.youtube.com/@MattF_CFW)
+[Insta](https://www.instagram.com/clearfromwithin)
+
 Past Events:
 CFW GroupEvent @Gateway|LA 9/28/24 (QHHt/VocalYoga/Self-Enquiry/music)
 <img src="assets/img/CFW_GroupEvent_Gateway_092824.png"/>
