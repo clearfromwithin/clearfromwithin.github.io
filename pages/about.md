@@ -7,7 +7,7 @@ permalink: /about
 
 Greetings.  Welcome to Clear From Within. It can be stated that all healing starts from within ourselves.  Sometimes within <span style="background-color: #FFFF00">seems</span> out of reach, or we may experience blocks that keep us from going inside on our own.  We search and search for answers out in the external world.  Often the solution simply requires a person to facilitate this going within to help us achieve our heart’s desires and to find clarity.  This is what I endeavor to do with clients.  I always try my best to lead with love, attentiveness, and dilligence.
 
-<!-- <img src="assets/img/CFW_Card_Cindy_Matt.PNG"/>  <img src="assets/img/CFW_business_card.png"/> -->
+<img src="assets/img/CFW_Card_Cindy_Matt.PNG"/>
 <img src="assets/img/CFW_business_card.png" alt="drawing" height="50%" width="50%"/>
 My name is Matt Fairweather.  I offer a variety of services in Wellness/Health.
 
@@ -35,6 +35,6 @@ Super-Green Protien Kefir Smoothie
 
 More receipes/events/musings on [Instagram](https://www.instagram.com/clearfromwithin) & [Youtube](https://www.youtube.com/@MattF_CFW)
 
-<!-- <img src="assets/img/Cindy.png"/> -->
-<!-- Cindy's bio is coming.  The broad strokes: she is OC based and highly skilled/experienced with peptides/holistic health. She also -->
-<!-- provides concierge-based services to cat-owners in SoCal and is a primarty member of The Catmosphere Foundation in Laguna Beach. -->
+<img src="assets/img/Cindy.png"/>
+Cindy's bio is coming.  The broad strokes: she is OC based and highly skilled/experienced with biologicals/peptides/holistic health. She also
+provides concierge-based services to cat-owners in SoCal and is a primary member of The Catmosphere Foundation in Laguna Beach.
