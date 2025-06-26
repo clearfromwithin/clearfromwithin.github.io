@@ -8,8 +8,8 @@ permalink: /about
 Greetings.  Welcome to Clear From Within. It can be stated that all healing starts from within ourselves.  Sometimes within <span style="background-color: #FFFF00">seems</span> out of reach, or we may experience blocks that keep us from going inside on our own.  We search and search for answers out in the external world.  Often the solution simply requires a person to facilitate this going within to help us achieve our heart’s desires and to find clarity.  This is what I endeavor to do with clients.  I always try my best to lead with love, attentiveness, and dilligence.
 
 <img src="assets/img/CFW_Card_Cindy_Matt.PNG" alt="drawing" height="66%" width="66%"/>
-<img src="assets/img/CFW_business_card.png" alt="drawing" height="33%" width="33%"/>
-<img src="assets/img/Matt_BeforeAfter.jpg" alt="drawing" height="80%" width="80%"/>
+<img src="assets/img/CFW_business_card.png" alt="drawing" height="43%" width="43%"/>
+<img src="assets/img/Matt_BeforeAfter.jpg" alt="drawing" height="66%" width="66%"/>
 My name is Matt Fairweather.  I offer a variety of services in Wellness/Health.
 
 Services:
@@ -36,7 +36,7 @@ Super-Green Protien Kefir Smoothie
 
 More receipes/events/musings on [Instagram](https://www.instagram.com/clearfromwithin) & [Youtube](https://www.youtube.com/@MattF_CFW)
 
-<img src="assets/img/Cindy.jpg"/>
+<img src="assets/img/Cindy.jpg" alt="drawing" height="66%" width="66%"/>
 Cynthia Daugherty – Holistic Wellness Coach, Animal Advocate, and Creative Professional
 
 Cynthia Daugherty is a dynamic and deeply compassionate professional with over 25 years of experience across holistic health, animal care, fashion design, and technical sales. With a Bachelor’s degree in Business Management and CPA certification, she brings both analytical precision and heartfelt dedication to everything she does.
@@ -50,4 +50,4 @@ Cynthia has worked as a veterinary assistant for six years, providing compassion
 In recent years, she has become a peptide wellness and weight loss coach, guiding clients through evidence-based health protocols designed to balance hormones, support fat loss, and promote overall well-being.
 
 Today, Cynthia brings together her wide-ranging expertise to support people and animals through personalized wellness, informed advocacy, and creative problem-solving.
-<img src="assets/img/Cindy_BeforeAfter.jpg"/>
+<img src="assets/img/Cindy_BeforeAfter.jpg" alt="drawing" height="66%" width="66%"/>
