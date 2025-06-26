@@ -7,8 +7,9 @@ permalink: /about
 
 Greetings.  Welcome to Clear From Within. It can be stated that all healing starts from within ourselves.  Sometimes within <span style="background-color: #FFFF00">seems</span> out of reach, or we may experience blocks that keep us from going inside on our own.  We search and search for answers out in the external world.  Often the solution simply requires a person to facilitate this going within to help us achieve our heart’s desires and to find clarity.  This is what I endeavor to do with clients.  I always try my best to lead with love, attentiveness, and dilligence.
 
-<img src="assets/img/CFW_Card_Cindy_Matt.PNG"/>
-<img src="assets/img/CFW_business_card.png" alt="drawing" height="50%" width="50%"/>
+<img src="assets/img/CFW_Card_Cindy_Matt.PNG" alt="drawing" height="66%" width="66%"/>
+<img src="assets/img/CFW_business_card.png" alt="drawing" height="33%" width="33%"/>
+<img src="assets/img/Matt_BeforeAfter.jpg" alt="drawing" height="80%" width="80%"/>
 My name is Matt Fairweather.  I offer a variety of services in Wellness/Health.
 
 Services:
@@ -35,6 +36,18 @@ Super-Green Protien Kefir Smoothie
 
 More receipes/events/musings on [Instagram](https://www.instagram.com/clearfromwithin) & [Youtube](https://www.youtube.com/@MattF_CFW)
 
-<img src="assets/img/Cindy.png"/>
-Cindy's bio is coming.  The broad strokes: she is OC based and highly skilled/experienced with biologicals/peptides/holistic health. She also
-provides concierge-based services to cat-owners in SoCal and is a primary member of The Catmosphere Foundation in Laguna Beach.
+<img src="assets/img/Cindy.jpg"/>
+Cynthia Daugherty – Holistic Wellness Coach, Animal Advocate, and Creative Professional
+
+Cynthia Daugherty is a dynamic and deeply compassionate professional with over 25 years of experience across holistic health, animal care, fashion design, and technical sales. With a Bachelor’s degree in Business Management and CPA certification, she brings both analytical precision and heartfelt dedication to everything she does.
+
+Cynthia’s career began in fashion, designing innovative, functional clothing for Versatile Fashions from 1996 to 2008—designs that were later cataloged at Harvard University for their cultural and artistic relevance. At the same time, her lifelong love for animals led her to begin rescuing and rehabilitating cats in 1998, a mission she continues to this day.
+
+Her professional path also includes 22 years in sales for surface mount technology, where she created detailed proposals for 12 product lines used in factory builds. This technical and strategic role sharpened her skills in communication, project coordination, and client relations, complementing her creative and caregiving work.
+
+Cynthia has worked as a veterinary assistant for six years, providing compassionate support for animals and their owners, and as a certified nursing assistant (CNA), caring for cancer patients for four years in clinical and home settings. She has also studied behavioral science and holistic nutrition for both humans and animals, further broadening her scope of care.
+
+In recent years, she has become a peptide wellness and weight loss coach, guiding clients through evidence-based health protocols designed to balance hormones, support fat loss, and promote overall well-being.
+
+Today, Cynthia brings together her wide-ranging expertise to support people and animals through personalized wellness, informed advocacy, and creative problem-solving.
+<img src="assets/img/Cindy_BeforeAfter.jpg"/>
