@@ -5,7 +5,7 @@ permalink: /blog
 ---
 <!-- comments -->
 
-<img src="assets/img/CFW_old.png"/> <!-- alt="drawing" height="66%" width="66%"/> -->
+<!-- <img src="assets/img/CFW_old.png"/> alt="drawing" height="66%" width="66%"/> -->
 5.27.25:
 Planning an event soon at Brentwood's Gateway Portal.  CFW has had past events at both old locations on Gateway & Venice Blvd, so it's exciting to get back after more than a year of doing these.  Details coming, but will once again be a stream of consciousness...
 * opening with music/singing
