@@ -10,3 +10,5 @@ permalink: /affiliates
 
 [C-YA in California website](http://cyaincalifornia.com)
 <img src="assets/img/CYA.png"/>
+
+[Vocal Yoga](https://vocalyoga.com/teachers/)
