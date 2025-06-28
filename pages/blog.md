@@ -7,7 +7,7 @@ permalink: /blog
 
 <img src="assets/img/CFW_old.png" height="43%" width="43%"/> -->
 5.27.25:
-Planning an event soon at Brentwood's Gateway Portal.  CFW has had past events at both old locations on Gateway & Venice Blvd, so it's exciting to get back after more than a year of doing these.  Details coming, but will once again be a stream of consciousness...
+Planning an event soon at Brentwood's Gateway Portal.  CFW has had past events at both old locations on Gateway & Venice Blvd, so it's exciting to get back after more than a year off of doing these.  Details coming, but will once again be a stream of consciousness...
 * opening with music/singing
 * a short guided meditation
 * exploring future and past timelines using much of Dolores' suggestions as a guiding light
