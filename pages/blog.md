@@ -6,7 +6,7 @@ permalink: /blog
 <!-- comments -->
 
 11.18.26:
-The earthly human experience is at a crossroads for game makers and players.
+The earthly human experience is at a crossroads for software game makers and players.
 GTA6 could be the last big budget title. The craft used to be arcane and only
 for desparate programmers compelled to make an alternate reality like Phillip K
 Dick with his books. We pushed our brains to exhaustion sitting in front of
