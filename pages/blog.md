@@ -12,12 +12,12 @@ for desparate programmers compelled to make an alternate reality like Phillip K
 Dick with his books. We pushed our brains to exhaustion sitting in front of
 computers going mad. Now our technology in the modern day can do things in split
 seconds without any bugs or hiccups. Software that once took massive teams 
-cab be reproduced and modified in a heartbeat. The art seems to have lost its soul
-long ago but now wondering if it will be lost for good. oh well was a good run and
+can be reproduced and modified in a heartbeat. The art seems to have been losing its soul
+a while, but now wondering if it will be lost for good. oh well was a good run and
 many amazing things were done and many friendships happened along the way. it all started
-with pong for me and will always at least have those memories of playing what was made,
+with playing pong for me and will always at least have those memories of playing what was made,
 then partipating in making games, and most importantly playing them and feverishly trying to
-get better and win ar all costs. ❤️‍🩹
+get better and win at all costs. ❤️‍🩹
 
 <img src="assets/img/CFW_old.png" height="43%" width="43%"/> -->
 5.27.25:
