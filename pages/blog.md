@@ -5,6 +5,20 @@ permalink: /blog
 ---
 <!-- comments -->
 
+11.18.26:
+The earthly human experience is at a crossroads for game makers and players.
+GTA6 could be the last big budget title. The craft used to be arcane and only
+for desparate programmers compelled to make an alternate reality like Phillip K
+Dick with his books. We pushed our brains to exhaustion sitting in front of
+computers going mad. Now our technology in the modern day can do things in split
+seconds without any bugs or hiccups. Software that once took massive teams 
+cab be reproduced and modified in a heartbeat. The art seems to have lost its soul
+long ago but now wondering if it will be lost for good. oh well was a good run and
+many amazing things were done and many friendships happened along the way. it all started
+with pong for me and will always at least have those memories of playing what was made,
+then partipating in making games, and most importantly playing them and feverishly trying to
+get better and win ar all costs. ❤️‍🩹
+
 <img src="assets/img/CFW_old.png" height="43%" width="43%"/> -->
 5.27.25:
 Planning an event soon at Brentwood's Gateway Portal.  CFW has had past events at both old locations on Gateway & Venice Blvd, so it's exciting to get back after more than a year off of doing these.  Details coming, but will once again be a stream of consciousness...
